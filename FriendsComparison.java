@@ -7,7 +7,7 @@ public class FriendsComparison {
         int maxSize = 3; // Initial size
         int[] ages = new int[maxSize];
         int[] heights = new int[maxSize];
-
+ 
         String[] names = {"Amar", "Akbar", "Anthony"};
 
         for (int i = 0; i < maxSize; i++) {
