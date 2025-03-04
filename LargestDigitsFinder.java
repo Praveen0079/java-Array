@@ -6,7 +6,7 @@ public class LargestDigitsFinder {
 
         // Take user input for the number
         System.out.print("Enter a number: ");
-        int number = scanner.nextInt();
+        int number = scanner.nextInt(); 
 
         // Define an array to store digits (max 10 digits)
         int maxDigit = 10;
