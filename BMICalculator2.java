@@ -6,7 +6,7 @@ public class BMICalculator2 {
 
         System.out.print("Enter the number of persons: ");
         int number = scanner.nextInt();
-
+ 
         // 2D array to store height, weight, and BMI
         double[][] personData = new double[number][3];
         String[] weightStatus = new String[number];
