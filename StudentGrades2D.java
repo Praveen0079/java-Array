@@ -8,7 +8,7 @@ public class StudentGrades2D {
         System.out.print("Enter number of students: ");
         int n = sc.nextInt();
 
-        // 2D array to store marks for Physics, Chemistry, Maths
+        // 2D array to store marks for Physics, Chemistry, Maths 
         int[][] marks = new int[n][3];
         double[] percentage = new double[n];
         String[] grade = new String[n];
