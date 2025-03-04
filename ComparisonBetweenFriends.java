@@ -5,7 +5,7 @@ public class ComparisonBetweenFriends {
         Scanner scanner = new Scanner(System.in);
 
         // Arrays to store ages and heights
-        String[] friends = {"Amar", "Akbar", "Anthony"};
+        String[] friends = {"Amar", "Akbar", "Anthony"}; 
         int[] ages = new int[3];
         double[] heights = new double[3];
 
